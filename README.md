@@ -15,6 +15,8 @@ Kaggle link: https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothin
 
 Description: The dataset used for this analysis is the "Women's Clothing E-Commerce Reviews" dataset. This dataset contains information about clothing reviews, including the text of the review and the associated rating. The dataset is used to train and evaluate the sentiment analysis model.
 
+Code: https://github.com/sayaring/Screening-Test/blob/main/Medical_Readmission.ipynb
+
 ## Problem 2: Medical Readmission
 
 A hospital has a large dataset of patient records, including information on demographics,
